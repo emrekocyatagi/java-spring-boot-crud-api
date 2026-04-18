@@ -1,6 +1,6 @@
 # java-spring-boot-crud-api
 
-# Spring Boot 3 & PostgreSQL: Software Engineer Management API 🚀
+## Spring Boot 3 & PostgreSQL: Software Engineer Management API 🚀
 
 Dieses Projekt ist eine RESTful API, die ich im Rahmen meines **Java II** Studiums entwickle. Es dient dazu, meine Java-Grundlagen zu festigen und moderne Frameworks wie **Spring Boot 3** sowie die Containerisierung mit **Docker** in der Praxis anzuwenden.
 
@@ -30,11 +30,3 @@ Die Anwendung folgt einer sauberen Schichtenarchitektur, um Wartbarkeit und Test
 3.  **Data-Access-Layer (Repository):** Abstrahiert den Datenbankzugriff über JPA Interfaces.
 4.  **Database:** PostgreSQL Container, verwaltet über Docker.
 
-
-
-## 🚀 Installation & Setup
-
-### 1. Repository klonen
-```bash
-git clone [https://github.com/DEIN_BENUTZERNAME/DEIN_REPO_NAME.git](https://github.com/DEIN_BENUTZERNAME/DEIN_REPO_NAME.git)
-cd DEIN_REPO_NAME
